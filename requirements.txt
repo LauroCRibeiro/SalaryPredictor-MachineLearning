@@ -1,0 +1,11 @@
+Flask
+passlib
+SQLAlchemy
+Werkzeug
+gunicorn
+gevent
+Numpy
+Pandas
+Matplotlib
+scikit-learn
+pickle5
